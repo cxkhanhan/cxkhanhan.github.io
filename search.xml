@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>适用场景比较广泛的条件竞争脚本</title>
+      <link href="/2025/05/10/%E6%9D%A1%E4%BB%B6%E7%AB%9E%E4%BA%89/"/>
+      <url>/2025/05/10/%E6%9D%A1%E4%BB%B6%E7%AB%9E%E4%BA%89/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>之前拉了一坨脚本.大佬们轻点喷. 写了个自定义程度高且操作方法不算太麻烦的条件竞争脚本( 因为我发现很多师傅的条件竞争脚本都是现场搓的.或者拿模板改了又改的.就写了个不用二次搓的适用场景比较多的脚本<a href="https://github.com/cxkhanhan/Custom-Race-Condition">https://github.com/cxkhanhan/Custom-Race-Condition</a></p><p><img src="https://raw.githubusercontent.com/cxkhanhan/tu_chuang/main/ee4b9d6e-0204-4a37-90b6-1126e1871175.png" alt="ee4b9d6e-0204-4a37-90b6-1126e1871175"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> race </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> race </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>spring aop漏洞学习笔记(污染链分析&amp;项目源码分析)</title>
       <link href="/2025/03/09/spring%20aop%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0(%E6%B1%A1%E6%9F%93%E8%BF%9E%E5%88%86%E6%9E%90&amp;%E9%A1%B9%E7%9B%AE%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90)/"/>
       <url>/2025/03/09/spring%20aop%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0(%E6%B1%A1%E6%9F%93%E8%BF%9E%E5%88%86%E6%9E%90&amp;%E9%A1%B9%E7%9B%AE%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90)/</url>
