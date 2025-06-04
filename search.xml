@@ -4,13 +4,25 @@
   
     
     <entry>
-      <title></title>
-      <link href="/2025/06/04/test/"/>
-      <url>/2025/06/04/test/</url>
+      <title>蓝初流量检测的webshell特征总结和误判思路</title>
+      <link href="/2025/05/25/test/"/>
+      <url>/2025/05/25/test/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">title: 蓝初流量检测的webshell特征总结和误判思路</span><br><span class="line">date: 2025-05-25 12:00:00</span><br><span class="line">tags: 蓝初</span><br><span class="line">categories: 蓝初</span><br><span class="line">cover: /img/青瞳猫.png</span><br><span class="line">password: 123456</span><br></pre></td></tr></table></figure>]]></content>
+        <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">  <script id="hbeData" type="hbeData" data-hmacdigest="698d2933315862e7678c5dd1a5f7aee2036d93ce89022cd23cabb8b3a2bcb87c">4630436162ade97ba2718b7d0c4b3b630ef8b034c35893a7afa4c54a5752d90eba191a593f89497fdfca691efaf72d5caa0c664d8e7a85bd833fac72ade59ddbf66b4bdec75a2ed1e83f57bcb279b78c8202c7ce8d3eb34051070935a62ccbf9be563b576fcb19a6e4c095e03496f05d0fec5de7a8af18b78d977beffb6874da4670293f572d11dfa81b48ce6cd0448f0a018d399d177f54eb76d77c6c17f9c36f9f255c3de0f225f9e9c6b4f23d83fc3307cf9be8ef0d2bb8d0474ceec45d7300894f4b8f11650b44ad991ba7d432283fbefe6029b9e47d856da566b3c9916f</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-default">      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Hey, password is required here.</span>      </label>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
       
       
+      <categories>
+          
+          <category> 蓝初 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 蓝初 </tag>
+            
+        </tags>
       
     </entry>
     
